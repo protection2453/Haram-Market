@@ -1,0 +1,109 @@
+
+---Upload files---
+Redux file was not uploaded. Error: 지정한 파일은 업로드 테스트에 실패하였습니다.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://reap-shop.com
+Data file = /dltngh0/www/wp-content/uploads/2019/10/kartpul_layout5.wordpress.xml
+Widget file = /dltngh0/www/wp-content/uploads/2019/10/kartpul_layout5_widgets_settings.wie
+Customizer file = /dltngh0/www/wp-content/uploads/2019/10/kartpul_layout5_customizer_export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+shop-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+상품 카테고리 - Product categories - Imported to Inactive
+상품 가격 필터 적용 - Filter by price - Imported to Inactive
+상품 속성 필터 적용 - Filter by Color - Imported to Inactive
+이미지 - No Title - Imported to Inactive
+
+Main Sidebar : 
+
+최근 글 - No Title - Widget already exists
+최근 댓글 - No Title - Widget already exists
+글 목록 - No Title - Widget already exists
+카테고리 - No Title - Widget already exists
+그 밖의 기능 - No Title - Widget already exists
+최근 글 - No Title - Imported
+
+Header Shopping Cart Widget Area : 
+
+장바구니 - Cart - Imported
+
+Header Search Widget Area : 
+
+Advance Search Widget - No Title - Imported
+
+Product Category Widget Area : 
+
+상품 카테고리 - Product categories - Imported
+
+First Footer Widget Area : 
+
+Static Links - Get to Know Us - Imported
+
+Second Footer Widget Area : 
+
+Static Links - Connect With US - Imported
+
+Third Footer Widget Area : 
+
+Static Links - Earning with Us - Imported
+
+Fourth Footer Widget Area : 
+
+Static Links - Let Us Help You - Imported
+
+Fifth Footer Widget Area : 
+
+갤러리 - Download Apps - Imported
+
+Footer Bottom Widget Area : 
+
+이미지 - No Title - Imported
+Newsletter - No Title - Imported
+Follow Us - No Title - Imported
+
+Footer Product Tag Area : 
+
+상품 태그 클라우드 - Product tags : - Imported
+
+Footer Payment Method Widget Area : 
+
+WooCommerce Accepted Payment Methods - Accepted Payment Methods - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+Slider processed

@@ -1,0 +1,15 @@
+
+---Downloaded files---
+The import files for: Kartpul_Layout2 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://reap-shop.com
+Data file = /dltngh0/www/wp-content/themes/kartpul_layout2/demo-content/demo2/kartpul_layout2.wordpress.xml
+Widget file = /dltngh0/www/wp-content/themes/kartpul_layout2/demo-content/demo2/kartpul_layout2_widgets_settings.wie
+Customizer file = /dltngh0/www/wp-content/themes/kartpul_layout2/demo-content/demo2/kartpul_layout2_customizer_export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
